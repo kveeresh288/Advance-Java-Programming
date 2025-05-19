@@ -9,7 +9,7 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 
 
 import java.util.*;
-public class ListExample {
+public class ListOperations {
 
     public static void main(String[] args) {
 
