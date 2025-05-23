@@ -1,3 +1,8 @@
+// 1b 3. Write a java program for getting different colors through ArrayList interface and  
+// sort them using Collections.sort( ArrayListObj)
+
+//code:
+
 import java.util.*;
 
 public class _1b_SortColors {
