@@ -27,3 +27,5 @@ Advance Java
 3. Write a java program for getting different colors through ArrayList interface and  sort them using Collections.sort( ArrayListObj)
     🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1b.ArrayList/1b_3_Output.png)
     
+4. Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object  by  using SubList()
+   🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1b.ArrayList/1b_4_Output.png)
