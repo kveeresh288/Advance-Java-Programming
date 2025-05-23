@@ -121,12 +121,12 @@ function isNumeric()
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3c.String/3c_8_Output.png)
 
 
-3c9. Write a Java Program for Creating a random string of a specified length using user defined
+3c 9. Write a Java Program for Creating a random string of a specified length using user defined
 function generateRandomString()
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3c.String/3c_9_Output.png)
 
 
-3c10. Write a Java Program for Counting the number of words in a string using user defined function
+3c 10. Write a Java Program for Counting the number of words in a string using user defined function
 countWords()
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3c.String/3c_10_Output.png)
 
@@ -185,7 +185,7 @@ visited this page n times ( n = number of your visit ) and demonstrate the expir
 by step procedure. 🔗 [Output Screenshot-1](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/6c.Servlet/6c_Output1.png) 🔗 [Output Screenshot-2](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/6c.Servlet/6c_Output2.png)
 
 ---
-### Employee and Coffee Projects
+### JDBC Employee and Coffee Projects
 
 7a. Build a Session Management using JSP program set with one minute session expiry time to get
 your name through text box and press submit to display the message by greeting Hello your name!.
