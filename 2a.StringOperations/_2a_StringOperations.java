@@ -65,7 +65,7 @@ public class _2a_StringOperations {
         System.out.println(String.format("Name: %s, Age: %d", name, age));
 
         // Validate Email with contains(), startsWith(), endsWith()
-        String email = "user@example.com";
+        String email = "Veeresha@gmail.com";
         boolean isValid = email.contains("@") && email.endsWith(".com") && email.startsWith("user");
         System.out.println("Email '" + email + "' is valid? " + isValid);
     }
