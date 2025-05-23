@@ -10,14 +10,14 @@ Advance Java
 
 ---
 
-### 1.a  Develop a Java program for adding elements   \[Apple, Banana, Orange] into an ArrayList and a  LinkedList  to  perform the   following  operations  with  different  functions  directed  as follows
-
-1. Adding elements,   2. Adding element at specific index, 3. Adding multiple elements, 4. Accessing elements,5. Updating elements, 6. Removing elements,  7. Searching elements,  8. List size, 9. Iterating over list, 10. Using Iterator,  11. Sorting, 12. Sublist, 13. Clearing the list
-   🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1a.ListOperations/1a_Output.png)
+### List Operations
+1.a  Develop a Java program for adding elements   \[Apple, Banana, Orange] into an ArrayList and a  LinkedList  to  perform the   following  operations  with  different  functions  directed  as follows
+      1. Adding elements,   2. Adding element at specific index, 3. Adding multiple elements, 4. Accessing elements,5. Updating elements, 6. Removing elements,  7. Searching elements,  8. List size, 9. Iterating over list, 10. Using Iterator,  11. Sorting, 12. Sublist, 13. Clearing the list
+         🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1a.ListOperations/1a_Output.png)
 
 ---
 
-### 1b.  Array List programs
+### Array List programs
    
 1b 1. Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
     🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1b.ArrayList/1b_1_Output.png)
@@ -35,7 +35,7 @@ Advance Java
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1b.ArrayList/1b_5_Output.png)
 
 ---
-### 1c. Linked List Programs
+### Linked List Programs
 
 1c 1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_1_Output.png)
@@ -53,7 +53,7 @@ Advance Java
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_5_Output.png)
 
 ---
-### String Operatioons
+### String Operations
 
 2a. Develop a java program for performing various string operations with different string
 handling functions directed as follows
@@ -83,7 +83,7 @@ startsWith() and endsWith()
 
 ---
 
-### 3b. String Exercise progams - I
+### String Exercise progams - I
 3b 1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty().
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3b.String/3b_1_Output.png)
@@ -105,7 +105,7 @@ function removeWhitespace()
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3b.String/3b_4_Output.png)
 
 
-### 3c. String Exercise progams - II
+### String Exercise progams - II
 
 3c 6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords()
