@@ -19,37 +19,37 @@ Advance Java
 
 ### 1b.  Array List programs
    
-1. Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
+1b 1. Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
     🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1b.ArrayList/1b_1_Output.png)
 
-2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList 
+1b 2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList 
     🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1b.ArrayList/1b_2_Output.png)
 
-3. Write a java program for getting different colors through ArrayList interface and  sort them using Collections.sort( ArrayListObj)
+1b 3. Write a java program for getting different colors through ArrayList interface and  sort them using Collections.sort( ArrayListObj)
     🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1b.ArrayList/1b_3_Output.png)
     
-4. Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object  by  using SubList()
+1b 4. Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object  by  using SubList()
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1b.ArrayList/1b_4_Output.png)
     
-5. Write a java program for getting different colors through ArrayList interface and delete nth  element from the ArrayList object  by  using remove by index
+1b 5. Write a java program for getting different colors through ArrayList interface and delete nth  element from the ArrayList object  by  using remove by index
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1b.ArrayList/1b_5_Output.png)
 
 ---
 ### 1c. Linked List Programs
 
-1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
+1c 1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_1_Output.png)
 
-2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
+1c 2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_2_Output.png)
 
-3. Write a Java program to insert the specified element at the end of a linked list.( using l\_listobj.offerLast("Pink"))
+1c 3. Write a Java program to insert the specified element at the end of a linked list.( using l\_listobj.offerLast("Pink"))
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_3_Output.png)
 
-4. Write a Java program to display elements and their positions in a linked list ( using l\_listobj.get(p) )
+1c 4. Write a Java program to display elements and their positions in a linked list ( using l\_listobj.get(p) )
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_4_Output.png)
 
-5. Write a Java program that swaps two elements ( first and third elements ) in a linked list  ( using Collections.swap(l\_list, 0, 2))
+1c 5. Write a Java program that swaps two elements ( first and third elements ) in a linked list  ( using Collections.swap(l\_list, 0, 2))
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_5_Output.png)
 
 ---
@@ -84,49 +84,49 @@ startsWith() and endsWith()
 ---
 
 ### 3b. String Exercise progams - I
-Q1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
+3b 1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty().
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3b.String/3b_1_Output.png)
 
-Q2. Write a Java Program for Counting how many times a substring appears in a main string
+3b 2. Write a Java Program for Counting how many times a substring appears in a main string
 using user defined function countOccurrences()
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3b.String/3b_2_Output.png)
 
-Q3. Write a Java Program for Reversing the characters in a string using user defined function
+3b 3. Write a Java Program for Reversing the characters in a string using user defined function
 reverseString().
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3b.String/3b_3_Output.png)
 
-Q4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case
+3b 4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case
 and punctuation) using user defined function isPalindrome():
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3b.String/3b_3_Output.png)
 
-Q5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
+3b 5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
 function removeWhitespace()
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3b.String/3b_4_Output.png)
 
 
 ### 3c. String Exercise progams - II
 
-Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
+3c 6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords()
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3c.String/3c_6_Output.png)
 
-Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
+3c 7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
 defined function truncate()
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3c.String/3c_7_Output.png)
 
 
-Q8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
+3c 8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
 function isNumeric()
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3c.String/3c_8_Output.png)
 
 
-Q9. Write a Java Program for Creating a random string of a specified length using user defined
+3c9. Write a Java Program for Creating a random string of a specified length using user defined
 function generateRandomString()
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3c.String/3c_9_Output.png)
 
 
-Q10. Write a Java Program for Counting the number of words in a string using user defined function
+3c10. Write a Java Program for Counting the number of words in a string using user defined function
 countWords()
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3c.String/3c_10_Output.png)
 
@@ -170,3 +170,21 @@ display the concerned color whenever the specific tab is selected in the Pan
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/5d.Swing/5d_Output.png)
 
 ---
+### Servlet Programs 
+
+6a. Build a servlet program to find the factorial of a number using HTML with step by step
+procedure.
+🔗 [Output Screenshot-1](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/6a.Servlet/6a_Output1.png)
+🔗 [Output Screenshot-2](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/6a.Servlet/6a_Output2.png)
+
+6b. Build a servlet program to create a cookie to get your name through text box and press submit
+button( through HTML) to display the message by greeting Welcome back your name ! , you have
+visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.
+🔗 [Output Screenshot-1](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/6b.Servlet/6b_Output1.png)
+🔗 [Output Screenshot-2](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/6b.Servlet/6b_Output2.png)
+
+6c. Build a servlet program to check the given number is prime number or not using HTML with step
+by step procedure.
+🔗 [Output Screenshot-1](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/6c.Servlet/6c_Output1.png)
+🔗 [Output Screenshot-2](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/6c.Servlet/6c_Output2.png)
+
