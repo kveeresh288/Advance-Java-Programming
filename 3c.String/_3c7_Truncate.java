@@ -1,5 +1,7 @@
 // 3c Q7: Shortening a string to a specified length and adding an ellipsis using truncate()
 
+//code: 
+
 public class _3c7_Truncate {
     public static String truncate(String str, int maxLength) {
         if (str.length() <= maxLength) return str;

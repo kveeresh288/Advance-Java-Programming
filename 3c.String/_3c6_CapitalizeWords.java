@@ -1,5 +1,7 @@
 // 3c Q6: Capitalizing the first letter of each word using capitalizeWords()
 
+//code: 
+
 public class _3c6_CapitalizeWords {
     public static String capitalizeWords(String str) {
         String[] words = str.split("\s+");

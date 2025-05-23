@@ -1,5 +1,7 @@
 // 3c Q10: Counting the number of words in a string using countWords()
 
+//code: 
+
 public class _3c10_CountWords {
     public static int countWords(String str) {
         if (str == null || str.trim().isEmpty()) return 0;

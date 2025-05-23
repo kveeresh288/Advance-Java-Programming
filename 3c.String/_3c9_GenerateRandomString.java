@@ -1,5 +1,7 @@
 // 3c Q9: Creating a random string of a specified length using generateRandomString()
 
+//code: 
+
 import java.util.Random;
 
 public class _3c9_GenerateRandomString {
