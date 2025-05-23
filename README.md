@@ -14,3 +14,9 @@ Advance Java
 
 1. Adding elements,   2. Adding element at specific index, 3. Adding multiple elements, 4. Accessing elements,5. Updating elements, 6. Removing elements,  7. Searching elements,  8. List size, 9. Iterating over list, 10. Using Iterator,  11. Sorting, 12. Sublist, 13. Clearing the list
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1a.ListOperations/1a_Output.png)
+
+
+### 1b.  Array List programs
+   
+   1. Write a java program for getting different colors through ArrayList interface and search whether the color "Red" is available or not
+      🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1b.ArrayList/1a_Output.png)
