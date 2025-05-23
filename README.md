@@ -46,6 +46,7 @@ Advance Java
 3. Write a Java program to insert the specified element at the end of a linked list.( using l\_listobj.offerLast("Pink"))
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_3_Output.png)
 
-
+4. Write a Java program to display elements and their positions in a linked list ( using l\_listobj.get(p) )
+   🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_4_Output.png)
 
 ---
