@@ -81,3 +81,51 @@ String Splitting, StringBuilder Demo, String Formatting , Validate Email with co
 startsWith() and endsWith()
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3a.StringHandling/3a_Output.png)
 
+---
+
+### 3b. String Exercise progams - I
+Q1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
+defined function isNullOrEmpty().
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3b.String/3b_1_Output.png)
+
+Q2. Write a Java Program for Counting how many times a substring appears in a main string
+using user defined function countOccurrences()
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3b.String/3b_2_Output.png)
+
+Q3. Write a Java Program for Reversing the characters in a string using user defined function
+reverseString().
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3b.String/3b_3_Output.png)
+
+Q4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case
+and punctuation) using user defined function isPalindrome():
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3b.String/3b_3_Output.png)
+
+Q5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
+function removeWhitespace()
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3b.String/3b_4_Output.png)
+
+
+### 3c. String Exercise progams - II
+
+Q6. Write a Java Program for Capitalizing the first letter of each word. using user defined function
+capitalizeWords()
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3c.String/3c_6_Output.png)
+
+Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
+defined function truncate()
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3c.String/3c_7_Output.png)
+
+
+Q8. Write a Java Program for Verifying if a string contains only numeric characters using user defined
+function isNumeric()
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3c.String/3c_8_Output.png)
+
+
+Q9. Write a Java Program for Creating a random string of a specified length using user defined
+function generateRandomString()
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3c.String/3c_9_Output.png)
+
+
+Q10. Write a Java Program for Counting the number of words in a string using user defined function
+countWords()
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3c.String/3c_10_Output.png)
