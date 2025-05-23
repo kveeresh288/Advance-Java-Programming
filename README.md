@@ -22,4 +22,4 @@ Advance Java
     🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1b.ArrayList/1b_1_Output.png)
 
 2. Write a java program for getting different colors through ArrayList interface and remove the 2nd element and color "Blue" from the ArrayList 
-    🔗 [Output Screenshot](Exp1-ListInterface/p2.png)
+    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1b.ArrayList/1b_2_Output.png)
