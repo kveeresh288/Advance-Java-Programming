@@ -49,4 +49,9 @@ Advance Java
 4. Write a Java program to display elements and their positions in a linked list ( using l\_listobj.get(p) )
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_4_Output.png)
 
+5. Write a Java program that swaps two elements ( first and third elements ) in a linked list  ( using Collections.swap(l\_list, 0, 2))
+   🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_5_Output.png)
+
+---
+
 ---
