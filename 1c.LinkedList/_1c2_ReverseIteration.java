@@ -7,10 +7,12 @@ import java.util.*;
 public class _1c2_ReverseIteration {
     public static void main(String[] args) {
         LinkedList<String> list = new LinkedList<>(Arrays.asList("Red", "Green", "Blue", "Yellow"));
-
+        System.out.println("Noramal list: "+ list);
+        System.out.print("Reverse Itereated list using descendingIterator : [");
         Iterator<String> reverseIterator = list.descendingIterator();
         while (reverseIterator.hasNext()) {
-            System.out.println(reverseIterator.next());
+            System.out.print(" "+reverseIterator.next());
         }
+        System.out.print(" ]");
     }
 }
