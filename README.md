@@ -53,7 +53,7 @@ Advance Java
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_5_Output.png)
 
 ---
-### String Programs
+### String Operatioons
 
 2a. Develop a java program for performing various string operations with different string
 handling functions directed as follows
@@ -63,10 +63,21 @@ Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validat
 contains( ) and startsWith() and endsWith()
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/2a.StringOperations/2a_Output.png)
 
-### 2b Performance Test
+### Performance Test
 2b. Develop a Java program to make a Performance Test on StringBuffer and StringBuilder for
 appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify
 your answer which one is better.
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/2b.StringPerformance/2b_Output.png)
 
 ---
+
+### String Handling Functions
+
+3a. Develop a java program for performing various string operations with different string
+handling functions directed as follows:
+String Creation and Basic Operations, Length and Character Access, String Comparison, String
+Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
+String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
+startsWith() and endsWith()
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/3a.StringHandling/3a_Output.png)
+
