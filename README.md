@@ -43,6 +43,8 @@ Advance Java
 2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_2_Output.png)
 
+3. Write a Java program to insert the specified element at the end of a linked list.( using l\_listobj.offerLast("Pink"))
+   🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_3_Output.png)
 
 
 
