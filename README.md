@@ -5,7 +5,7 @@ Advance Java
 **Subject Code**: BCS613D  
 **Name**: K VEERESH  
 **USN**: 4AL22CS068  
-**Sem/Section**: VI/B
+**Sem/Section**: VI/B 
 **Total Programs**: 28  
 
 ---
@@ -39,3 +39,11 @@ Advance Java
 
 1. Write a Java program to iterate through all elements in a linked list starting at the specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
    🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_1_Output.png)
+
+2. Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())
+   🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/1c.LinkedList/1c_2_Output.png)
+
+
+
+
+---
