@@ -148,3 +148,25 @@ event handling mechanism with addActionListener( ).
 Glass is pressed” depending upon the Jbutton with image either Digital Clock or Hour Glass is
 pressed by implementing the event handling mechanism with addActionListener( ).
 🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/4c.Swing/4c_Output.png)
+
+### Swing Programs - II
+
+5a. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
+Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
+display them on console whenever the countries are selected on the list.
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/5a.Swing/5a_Output.png)
+
+5b. Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
+display the concerned color whenever the specific tab is selected in the Pan.
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/5b.Swing/5b_Output.png)
+
+5c. Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
+Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
+display the capital of the countries on console whenever the countries are selected on the list.
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/5c.Swing/5c_Output.png)
+
+5d. Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
+display the concerned color whenever the specific tab is selected in the Pan
+🔗 [Output Screenshot](https://github.com/kveeresh288/Advance-Java-Programming-Assignment/blob/main/5d.Swing/5d_Output.png)
+
+---
